@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginWithFaceBook</string>
+    <string name="facebook_app_id">1853793701524811</string>
+
+    <string name="twiiter_key">anYJqPFcsNhUkPSyhpusQOcJr</string>
+    <string name="secret_key">qQZITj3JsKdRIYYYpNemkcnlRy5Vcci68YWAqyM8vPNqCHAb5T</string>
+</resources>
